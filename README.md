@@ -1,3 +1,9 @@
+# React Sandbox
+
+This is my sandbox project to begin learning ReactJS that is partially built following Udemy's React- The Complete Guide course by Maximilian Schwarzmuller.
+
+________________________________________________________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
